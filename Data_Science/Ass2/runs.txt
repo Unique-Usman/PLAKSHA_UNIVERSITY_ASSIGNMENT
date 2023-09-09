@@ -1,0 +1,14 @@
+	Malinga
+Bumrah
+Chahar
+Tahir
+Malinga
+Chahar
+Pogba
+0 0 20 1 2 0
+1 0 1 1 4 0
+4 0 1 1 6 4
+0 1 1 1 1 0
+6 6 4 0 4 0
+1 4 2 2 1 0
+2 4 4 3 2 21
